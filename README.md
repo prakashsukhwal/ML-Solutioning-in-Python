@@ -1,1 +1,1 @@
-# Python-based-classes-ML
+# Python based ML Solutions
